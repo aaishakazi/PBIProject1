@@ -67,7 +67,7 @@ The final dashboard enables:
 ## 🚀 View the Dashboard
 1. Download the `.pbix` file from this repository and open it in Power BI Desktop.
 2. OR view it online:  
-   🔗 [View Interactive Dashboard](https://app.powerbi.com/reportEmbed?reportId=390cf5ca-20a1-4bde-8711-83846f8b1094&autoAuth=true&ctid=27282fdd-4c0b-4dfb-ba91-228cd83fdf71)
+   🔗 [View Interactive Dashboard](https://app.powerbi.com/reportEmbed?reportId=a581dd6d-5796-4bee-afb6-264b4c9ab975&autoAuth=true&ctid=27282fdd-4c0b-4dfb-ba91-228cd83fdf71)
 
 ---
 
