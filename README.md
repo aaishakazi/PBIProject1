@@ -1,9 +1,8 @@
-# PBIProject1
-Student dropout analysis report created in Power BI using raw data 
 
 # 🎓 Student Dropout Risk Analysis Dashboard (Power BI)
 
 ## 📌 Project Overview
+Student dropout analysis report created in Power BI using raw data.
 This project analyzes student performance and lifestyle factors and identifies **dropout risks** using data.  
 The work is done **entirely in Power BI** — from **data cleaning** to **dashboard design** — using the [UCI Student Performance dataset](https://archive.ics.uci.edu/ml/datasets/student+performance).
 
